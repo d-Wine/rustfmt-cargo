@@ -30,4 +30,9 @@ rustfmt &amp; cargo basics
     -group multiple values into one type
     -tuples,arrays
 
+#   04-Playing with Function in Rust
+
+#   05-Control Flow Statements in Rust
+
+
 
